@@ -321,5 +321,44 @@
       "https://raw.githubusercontent.com/MauricioF2026/museo-manga/main/img/shintaro-goto/kl09.jpg",
       "https://raw.githubusercontent.com/MauricioF2026/museo-manga/main/img/shintaro-goto/kl10.jpg"
     ]
-  }
+  },
+  {
+  "nombre": "Hideshi Hino (1946– )",
+  "carpeta": "hideshi-hino",
+  "cantidad": 31,
+  "portada": "https://hinohideshi.com/images/works/c_001.png",
+  "imagenes": [
+    "https://hinohideshi.com/images/works/c_001.png",
+    "https://hinohideshi.com/images/works/c_002.png",
+    "https://hinohideshi.com/images/works/c_003.png",
+    "https://hinohideshi.com/images/works/c_004.png",
+    "https://hinohideshi.com/images/works/c_005.png",
+    "https://hinohideshi.com/images/works/c_006.png",
+    "https://hinohideshi.com/images/works/c_007.png",
+    "https://hinohideshi.com/images/works/c_008.png",
+    "https://hinohideshi.com/images/works/c_009.png",
+    "https://hinohideshi.com/images/works/c_010.png",
+    "https://hinohideshi.com/images/works/c_011.png",
+    "https://hinohideshi.com/images/works/c_012.png",
+    "https://hinohideshi.com/images/works/c_013.png",
+    "https://hinohideshi.com/images/works/c_014.png",
+    "https://hinohideshi.com/images/works/c_015.png",
+    "https://hinohideshi.com/images/works/c_016.png",
+    "https://hinohideshi.com/images/works/c_017.png",
+    "https://hinohideshi.com/images/works/c_018.png",
+    "https://hinohideshi.com/images/works/c_019.png",
+    "https://hinohideshi.com/images/works/c_020.png",
+    "https://hinohideshi.com/images/works/c_021.png",
+    "https://hinohideshi.com/images/works/c_022.png",
+    "https://hinohideshi.com/images/works/c_023.png",
+    "https://hinohideshi.com/images/works/c_024.png",
+    "https://hinohideshi.com/images/works/c_025.png",
+    "https://hinohideshi.com/images/works/c_026.png",
+    "https://hinohideshi.com/images/works/c_027.png",
+    "https://hinohideshi.com/images/works/c_028.png",
+    "https://hinohideshi.com/images/works/c_029.png",
+    "https://hinohideshi.com/images/works/c_030.png",
+    "https://hinohideshi.com/images/works/c_031.png"
+  ]
+}
 ]
